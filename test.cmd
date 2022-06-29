@@ -1,0 +1,1 @@
+python optmoyo.py good "https://optmoyo.ru/product/676140" "g:\optmoyo.ru\csvs\test.csv"
